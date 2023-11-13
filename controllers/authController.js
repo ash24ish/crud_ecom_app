@@ -225,16 +225,3 @@ export const getAllOrdersController = async (req, res) => {
     });
   }
 };
-
-
-/*
-JWT_SECRET=secret123
-
-PORT=3000
-
-BASE_URL= localhost:3000/api/v1/
-
-CONNECTION_STRING = mongodb+srv://______:ash____@cluster0.df1rpn9.mongodb.net/?retryWrites=true&w=majority
-
-DATABASE_NAME=ecomm
- */
